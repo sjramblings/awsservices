@@ -1,2 +1,5 @@
 # awsservices
-Guess all the AWS Services, How Many do you think you can get without cheating!
+
+How many AWS Services can you name without cheating?
+
+Inspired and shamelessly plagiarised by https://github.com/colmmacc/musicals.github.io
