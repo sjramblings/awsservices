@@ -1,6 +1,6 @@
 # awsservices
 
-How many AWS Services can you name without cheating? https://jonesy1234.github.io/awsservices/
+Do you konw your AWS service names? Put your cloud skills to the test and see if you have what it takes to be the ultimate AWS master! - https://sjramblings.github.io/awsservices/
 
 ## Service Source
 
